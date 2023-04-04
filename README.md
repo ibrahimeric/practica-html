@@ -1,2 +1,2 @@
-# practica_html
+practica_html
 practica visual y git
